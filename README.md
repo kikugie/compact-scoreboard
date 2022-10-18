@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# Compact Scoreboard
 
-## Setup
+A simple mod that replaces big scoreboard values on a sidebar with smaller representations. For example:  
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+- 1000 -> 1k
+- 1000000 -> 1M
+- 1000000000 -> 1B
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Reveals full values on holding F6, can be changed in vanilla settings.
